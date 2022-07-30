@@ -204,6 +204,10 @@ ol {
     color: rgb(247, 149, 38);
 }
 
+.carousel {
+    height: 300px;
+}
+
 @media all and (max-width: 1100px) {
     .titulogrande {
         font-size: 17px;
